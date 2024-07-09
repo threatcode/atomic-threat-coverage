@@ -8,4 +8,4 @@ mkdocs
 mkdocs-awesome-pages-plugin
 mkdocs-exclude
 mkdocs-windmill
-zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
